@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da0c641-4fc9-4f02-a076-42afb7ab19cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +27,9 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectId" id="2QOuCb1kuTZHcdfumNttapoSjWX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
-    "last_opened_file_path": "D:/Soft Development/r2certification/assets/css/images",
+    "last_opened_file_path": "D:/Soft Development/r2certification",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +55,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Soft Development\r2certification" />
       <recent name="D:\Soft Development\r2certification\assets\css\images" />
       <recent name="D:\Soft Development\r2certification\images" />
     </key>
@@ -73,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685236833188</updated>
       <workItem from="1685236837311" duration="2181000" />
-      <workItem from="1685274656489" duration="3614000" />
+      <workItem from="1685274656489" duration="3910000" />
     </task>
     <servers />
   </component>
