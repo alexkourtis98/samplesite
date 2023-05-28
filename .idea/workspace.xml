@@ -4,17 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da0c641-4fc9-4f02-a076-42afb7ab19cc" name="Changes" comment="" />
+    <list default="true" id="5da0c641-4fc9-4f02-a076-42afb7ab19cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/images/Untitled design (48).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/Untitled design (49).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/Untitled design (50).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/Untitled-design-30 (Custom).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Untitled design (48).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Untitled design (49).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Untitled design (50).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Untitled-design-30 (Custom).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectId" id="2QOuCb1kuTZHcdfumNttapoSjWX" />
   <component name="ProjectViewState">
@@ -27,16 +47,25 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "last_opened_file_path": "D:/Soft Development/r2certification/assets/css/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Soft Development\r2certification\assets\css\images" />
+      <recent name="D:\Soft Development\r2certification\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/r2certification/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -55,7 +84,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685236833188</updated>
-      <workItem from="1685236837311" duration="1372000" />
+      <workItem from="1685236837311" duration="2181000" />
+      <workItem from="1685274656489" duration="2751000" />
     </task>
     <servers />
   </component>

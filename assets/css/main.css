@@ -2099,6 +2099,7 @@ input, select, textarea {
 	}
 
 		.image img {
+			object-fit: cover;
 			border-radius: 3px;
 			display: block;
 		}
@@ -3582,6 +3583,11 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		background: url("./images/bg.jpg");
+		background-position: top;
+		background-repeat: no-repeat;
+		background-size: cover;
+		max-height: 800px;
 	}
 
 		#banner h2 {
@@ -3904,7 +3910,7 @@ input, select, textarea {
 
 		#footer .copyright {
 			color: rgba(255, 255, 255, 0.5);
-			font-size: 0.8em;
+			font-size: 0.6em;
 			letter-spacing: 0.225em;
 			list-style: none;
 			padding: 0;
